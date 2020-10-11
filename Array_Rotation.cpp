@@ -1,3 +1,4 @@
+//Array -rotation by juggling algorithm
 #include <iostream>
 #define max 100
 using namespace std;
