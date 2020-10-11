@@ -56,3 +56,4 @@ int main() {
      print(a,n);
 	return 0;
 }
+//Time Complexcity- O(n)
